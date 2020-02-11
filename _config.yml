@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
-description: "A Coming Soon Template"
+title: "Traverse Kerala"
+description: "Evrything About God's Own Country"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -9,7 +9,7 @@ author:
 
 #Target date in UTC / GMT
 countdown:
-  theme: red
+  theme: green
   year: 2020
   month: 5
   day: 1
